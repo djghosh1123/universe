@@ -1,5 +1,10 @@
 [
   {
+    "package": "PFCI",
+    "url": "https://github.com/djghosh1123/PFCI",
+    "branch": "master"
+  },
+  {
     "package": "glmgraph",
     "url": "https://github.com/cran/glmgraph",
     "branch": "master"
